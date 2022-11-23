@@ -1,0 +1,15 @@
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\bin\Debug\net6.0\Recursion.exe
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\bin\Debug\net6.0\Recursion.deps.json
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\bin\Debug\net6.0\Recursion.runtimeconfig.json
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\bin\Debug\net6.0\Recursion.dll
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\bin\Debug\net6.0\Recursion.pdb
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\obj\Debug\net6.0\Recursion.csproj.AssemblyReference.cache
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\obj\Debug\net6.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfoInputs.cache
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfo.cs
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\obj\Debug\net6.0\Recursion.csproj.CoreCompileInputs.cache
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\obj\Debug\net6.0\Recursion.dll
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\obj\Debug\net6.0\refint\Recursion.dll
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\obj\Debug\net6.0\Recursion.pdb
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\obj\Debug\net6.0\Recursion.genruntimeconfig.cache
+D:\cấu trúc dữ liệu và giải thuật\Recursion\Recursion\Recursion\obj\Debug\net6.0\ref\Recursion.dll

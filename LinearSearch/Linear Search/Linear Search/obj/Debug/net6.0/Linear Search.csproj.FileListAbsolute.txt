@@ -1,0 +1,15 @@
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\bin\Debug\net6.0\Linear Search.exe
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\bin\Debug\net6.0\Linear Search.deps.json
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\bin\Debug\net6.0\Linear Search.runtimeconfig.json
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\bin\Debug\net6.0\Linear Search.dll
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\bin\Debug\net6.0\Linear Search.pdb
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\obj\Debug\net6.0\Linear Search.csproj.AssemblyReference.cache
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\obj\Debug\net6.0\Linear Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\obj\Debug\net6.0\Linear Search.AssemblyInfoInputs.cache
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\obj\Debug\net6.0\Linear Search.AssemblyInfo.cs
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\obj\Debug\net6.0\Linear Search.csproj.CoreCompileInputs.cache
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\obj\Debug\net6.0\Linear Search.dll
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\obj\Debug\net6.0\refint\Linear Search.dll
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\obj\Debug\net6.0\Linear Search.pdb
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\obj\Debug\net6.0\Linear Search.genruntimeconfig.cache
+D:\cấu trúc dữ liệu và giải thuật\LinearSearch\Linear Search\Linear Search\obj\Debug\net6.0\ref\Linear Search.dll
